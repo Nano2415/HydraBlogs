@@ -1,6 +1,7 @@
 body
 {
-    color: #333;
+    background: #1a1a1b;
+    color: rgb(29, 28, 28);
     text-align: center;
     font-family: "Gotham";
     margin: 0;
@@ -11,11 +12,18 @@ body
 
 #cabecera
 {
-    background: #91851a;
-    color: rgb(43, 100, 5);
+    background: rgb(124, 126, 107);
+    box-shadow: 0px 2px 20px 0px rgba(0,0,0,0.5);
+    color: rgb(37, 163, 94);
     font-weight: bold;
     margin: 0;
-    padding: 0.5cm;
+    padding: 0.5cm 
+}
+
+#cabecera #logo
+{
+    width: 20px;
+    vertical-align: middle;
 }
 
 #cabecera #tagline
@@ -30,11 +38,17 @@ body
     width: 70%;
     padding: 1em;
     text-align: left;
-    border: 10px solid #ddd;
+    border: 10px solid #1a1a1b;
     margin: 0 auto;
 }
 
 #container h1
 {
     font-size: 30px;
+}
+
+#post
+{
+    background: white;
+    padding: 1em;
 }
