@@ -3,4 +3,6 @@ esta es la historia de nano
 Nano tiene 15 años y esta tomando clases de git y github en platzi
 con freddy vegas
 
+Master 1
+
 hoy hablaremos de su vida y obra maestra
